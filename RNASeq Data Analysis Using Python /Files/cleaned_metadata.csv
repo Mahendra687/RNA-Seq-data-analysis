@@ -1,0 +1,7 @@
+SRR_ID,Sample,condition
+SRR085474,"Normal brain, frontal lobe",Normal
+SRR085473,"Alzheimer's brain, temporal lobe",AD
+SRR085726,"Alzheimer's brain, frontal lobe",AD
+SRR085471,"Normal brain, temporal lobe",Normal
+SRR087416,Alzheimer's whole brain,AD
+SRR085725,Normal whole brain,Normal
